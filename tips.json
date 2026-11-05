@@ -1,0 +1,159 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "title": "50/30/20 Rule",
+      "tip": "Split your take-home pay: 50% for needs, 30% for wants and 20% for savings or debt repayment. Adjust the ratios to fit your situation, but start with a clear split."
+    },
+    {
+      "id": 2,
+      "title": "Pay Yourself First",
+      "tip": "Move your savings out as soon as your income arrives, before you spend on anything else. What is left is your spending budget."
+    },
+    {
+      "id": 3,
+      "title": "Build an Emergency Fund",
+      "tip": "Aim to save 3 to 6 months of essential expenses in an easy-access account. Start with a small target, such as one month, and grow it."
+    },
+    {
+      "id": 4,
+      "title": "Track Every Expense",
+      "tip": "Small purchases add up faster than you think. Log everything for a month and you will see exactly where your money goes."
+    },
+    {
+      "id": 5,
+      "title": "Try Zero-Based Budgeting",
+      "tip": "Give every ringgit a job so that income minus planned spending equals zero. Nothing is left to disappear on impulse buys."
+    },
+    {
+      "id": 6,
+      "title": "Use the Envelope Method",
+      "tip": "Set a fixed amount for flexible categories like food or entertainment. When that amount is gone, stop spending in that category until next month."
+    },
+    {
+      "id": 7,
+      "title": "Wait 24 Hours",
+      "tip": "For any non-essential purchase, wait a day before buying. Most impulse urges fade, and your budget stays intact."
+    },
+    {
+      "id": 8,
+      "title": "Audit Your Subscriptions",
+      "tip": "List every recurring payment and cancel the ones you rarely use. Streaming, apps and memberships quietly drain your budget."
+    },
+    {
+      "id": 9,
+      "title": "Plan Meals Ahead",
+      "tip": "Plan the week's meals and shop with a list. Cooking at home is usually far cheaper than eating out or ordering delivery."
+    },
+    {
+      "id": 10,
+      "title": "Always Shop With a List",
+      "tip": "A written list protects you from impulse buying. Stick to it and avoid shopping when you are hungry or stressed."
+    },
+    {
+      "id": 11,
+      "title": "Pay High-Interest Debt First",
+      "tip": "Make minimum payments on all debts, then put extra money towards the one with the highest interest rate. This is called the avalanche method."
+    },
+    {
+      "id": 12,
+      "title": "Try the Debt Snowball",
+      "tip": "If you need motivation, clear your smallest debt first, then roll that payment into the next one. Quick wins keep you going."
+    },
+    {
+      "id": 13,
+      "title": "Avoid Carrying Card Balances",
+      "tip": "Pay your credit card in full each month. Interest on unpaid balances can easily cancel out any rewards you earn."
+    },
+    {
+      "id": 14,
+      "title": "Create Sinking Funds",
+      "tip": "Save a little each month for known future costs such as insurance, festive season spending or car servicing, so they never wreck a month's budget."
+    },
+    {
+      "id": 15,
+      "title": "Review Your Budget Monthly",
+      "tip": "Compare your plan with what you actually spent. Adjust categories that keep going over instead of ignoring the gap."
+    },
+    {
+      "id": 16,
+      "title": "Set Specific Savings Goals",
+      "tip": "A goal like \"save RM3,000 for a laptop by June\" works better than \"save more\". Divide it into a monthly amount and track progress."
+    },
+    {
+      "id": 17,
+      "title": "Automate Your Savings",
+      "tip": "Set up an automatic transfer on payday. Savings that happen without effort are far more consistent than savings that rely on willpower."
+    },
+    {
+      "id": 18,
+      "title": "Separate Your Accounts",
+      "tip": "Keep savings in a different account from daily spending. Out of sight makes it much harder to dip into by accident."
+    },
+    {
+      "id": 19,
+      "title": "Compare Before You Buy",
+      "tip": "Check prices across a few stores or apps before any larger purchase. A few minutes of research can save a meaningful amount."
+    },
+    {
+      "id": 20,
+      "title": "Check the Unit Price",
+      "tip": "Compare the price per 100g or per litre instead of the sticker price. Bigger packs are not always cheaper."
+    },
+    {
+      "id": 21,
+      "title": "Consider Second-Hand",
+      "tip": "For items like textbooks, furniture or electronics, good second-hand options can cost a fraction of the price of new ones."
+    },
+    {
+      "id": 22,
+      "title": "Save Part of Every Raise",
+      "tip": "When your income goes up, put at least half of the increase towards savings before your lifestyle expands to match it."
+    },
+    {
+      "id": 23,
+      "title": "Plan for Irregular Expenses",
+      "tip": "Annual fees, repairs and medical costs do not arrive monthly. Estimate a yearly total and set aside a twelfth each month."
+    },
+    {
+      "id": 24,
+      "title": "Use a No-Spend Day",
+      "tip": "Pick one or two days a week where you spend nothing beyond essentials. It builds awareness and gives your budget breathing room."
+    },
+    {
+      "id": 25,
+      "title": "Cut Transport Costs",
+      "tip": "Carpool, use public transport or combine trips where you can. Fuel, parking and tolls are often a surprisingly large part of a budget."
+    },
+    {
+      "id": 26,
+      "title": "Reduce Utility Bills",
+      "tip": "Switch off unused devices, use energy-efficient appliances and set the air-conditioner a degree or two higher. Small habits lower monthly bills."
+    },
+    {
+      "id": 27,
+      "title": "Negotiate Your Bills",
+      "tip": "Phone, internet and insurance providers often have cheaper plans or loyalty offers. Ask, or compare alternatives, at least once a year."
+    },
+    {
+      "id": 28,
+      "title": "Use Student Discounts",
+      "tip": "If you are a student, ask for discounts on software, transport, food and entertainment. Many places offer them but do not advertise."
+    },
+    {
+      "id": 29,
+      "title": "Budget for Fun Too",
+      "tip": "A budget with no room for enjoyment is hard to stick to. Plan a small amount for treats so you do not binge-spend later."
+    },
+    {
+      "id": 30,
+      "title": "Check Statements Regularly",
+      "tip": "Look through your bank and card statements every month. You may spot forgotten charges, errors or fraud early."
+    },
+    {
+      "id": 31,
+      "title": "Start Small and Stay Consistent",
+      "tip": "Even saving RM20 a week builds a habit. Consistency matters more than the starting amount, so begin now and increase over time."
+    }
+  ]
+}
